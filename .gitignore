@@ -68,3 +68,4 @@ venv/
 # *.h5
 # *.pt
 # *.onnx
+firebase-admin.json
